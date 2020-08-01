@@ -10,6 +10,6 @@ public class TestMain {
 
         new Thread(() -> testSynchronize.test2()).start();
 
-        System.out.println(1234);
+        System.out.println(12345);
     }
 }
