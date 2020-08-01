@@ -9,6 +9,5 @@ public class TestMain {
         TestSynchronize testSynchronize12 = new TestSynchronize();
 
         new Thread(() -> testSynchronize.test2()).start();
-        System.out.println("256436fdf");
     }
 }
