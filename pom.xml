@@ -5,6 +5,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>model_23</module>
+        <module>influxdb</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
